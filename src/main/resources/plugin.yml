@@ -1,0 +1,11 @@
+name: minebr-mining
+version: 1.0
+main: net.minebr.MiningMain
+author: MrGuriBR_
+commands:
+  minaadmin:
+    aliases:
+      - gerenciarmina
+  mina:
+    aliases:
+      - mine

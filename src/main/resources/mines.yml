@@ -1,0 +1,18 @@
+mines:
+  Membro:
+    name: '&7[Membro]'
+    permission: 'minebr.mine.membro'
+    world: 'Mina'  # Nome do mundo onde a mina está localizada
+    blocks:
+      percentage:
+        - 'LAPIS_ORE:0;80'  # O bloco LAPIS_ORE com dados 0 terá 80% de chance
+        - 'DIAMOND_ORE:0;20'  # O bloco DIAMOND_ORE com dados 0 terá 20% de chance
+      cost:
+        - 'LAPIS_ORE;100.0'  # O bloco LAPIS_ORE tem um custo de 100.0
+        - 'DIAMOND_ORE;diamond'  # O bloco DIAMOND_ORE não será devolvido ao jogador
+    locations:
+      spawn: ''
+      exit: ''
+    positions:
+      pos1: Mina,-1099.0,59.0,310.0
+      pos2: Mina,-1059.0,31.0,270.0

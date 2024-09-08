@@ -1,0 +1,9 @@
+blocks:
+  diamond:
+    material: 'DIAMOND_ORE:0'
+    name: '&bBloco de Tokens.'
+    lore:
+      - '&7A cada 64 blocos desses você'
+      - '&7pode vende-los por tokens..'
+      - ''
+      - '&bUse &f/blocos vender &bpara vender.'

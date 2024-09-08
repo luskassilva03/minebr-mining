@@ -1,0 +1,13 @@
+mines:
+  Membro:
+    useSkull: false
+    skullUrl: ''
+    Material: '373:0'
+    slot: 20
+    name: '&7[Membro]'
+    lore:
+      - ''
+      - ' &8&l▸ &fPreço p/ bloco&7: {blockcost}'
+      - ' &8&l▸ &fJogadores minerando&7: {connect}'
+      - ''
+      - '&aclique aqui para entrar.'

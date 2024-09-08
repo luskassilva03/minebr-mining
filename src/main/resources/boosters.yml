@@ -1,0 +1,33 @@
+boosters:
+  booster1:
+    useSkull: false
+    skullUrl: ''
+    Material: '373:0'
+    name: '&bBooster de Mineração'
+    lore:
+      - '&7Use os seu(s) booster(s) para'
+      - '&7receber um bônus na mineração.'
+      - ''
+      - ' &8▸ &fTempo&7: {timer}'
+      - ' &8▸ &fBônus&7: {bonus}'
+      - ''
+      - '&bClique aqui para ativa-lo.'
+    booster:
+      time: 60 #em segundos
+      bonus: 5.0 #em porcentagem
+  booster2:
+    useSkull: false
+    skullUrl: ''
+    Material: '373:0'
+    name: '&bBooster de Mineração'
+    lore:
+      - '&7Use os seu(s) booster(s) para'
+      - '&7receber um bônus na mineração.'
+      - ''
+      - ' &8▸ &fTempo&7: {timer}'
+      - ' &8▸ &fBônus&7: {bonus}'
+      - ''
+      - '&bClique aqui para ativa-lo.'
+    booster:
+      time: 120 #em segundos
+      bonus: 10.0 #em porcentagem
