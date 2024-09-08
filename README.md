@@ -3,7 +3,7 @@
 ## Descrição
 
 Este é um plugin para Minecraft desenvolvido em Java que utiliza HikariCP para gerenciar conexões com bancos de dados MySQL e SQLite. O plugin adiciona funcionalidades avançadas de mineração ao jogo para deixar mais atrativo e divertido. 
-É permitindo a configuração detalhada de minas e suas propriedades.
+E permitindo a configuração detalhada de minas e suas propriedades.
  
 ## Funcionalidades
 
